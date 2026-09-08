@@ -18,7 +18,7 @@ This project implements a UART core capable of transmitting and receiving serial
 
 - Self-checking testbenches for RX in Vivado simulator
 - Waveform inspection to confirm correct framing and bit timing
-- End-to-end test: Python script sends bytes over USB → FPGA receives and (echoes/processes) them → Display result on seven segment display for verification
+- End-to-end test: Python script sends bytes over USB → FPGA receives and processes them → Display result on seven segment display for verification
 
 ## Tools
 
